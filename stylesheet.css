@@ -1,0 +1,56 @@
+header p,   footer {
+    font-style: italic;
+}
+body {
+    text-align: center;
+    background-color: #eee;
+    font-family: sans-serif;
+    font-size: 1em;
+}
+
+header {
+    background-color: #333;
+    margin: 2em 2em 0 2em;
+    padding: 1em;
+    color: #eee;
+}
+#mainContainer {
+    background-color: #aaa;
+    margin: 0 2em;
+    padding: 1em;
+}
+
+input {
+    background-color: #777;
+    border: none;
+    color: #eee;
+    font-size: 1em;
+    padding: 0 0.5em;
+}
+footer {
+    background-color: #ddd;
+    margin: 0 2em;
+    padding: 1em;
+
+}
+button {
+    margin: 1em 0;
+    background-color: #333;
+    color: #eee;
+    border: none;
+    padding: 1em;
+    cursor: pointer;
+}
+
+#conversionAnswer {
+    padding: 1em 0;
+    border-top: 1px dashed #777777;
+    font-size: 2em;
+    color: #fff;
+    font-weight: bold;
+}
+
+#conversionArea p {
+    padding-top: 1em;
+    border-top: 1px dashed #777777;
+}
