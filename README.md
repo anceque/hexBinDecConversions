@@ -1,7 +1,7 @@
 hexBinDecConversions
 ====================
 
-a website based conversion tool from Dec numbers to Binary or Hexadecimal numbers
+a web based conversion tool from Dec numbers to Binary or Hexadecimal numbers
 
 v0.1
 ----
